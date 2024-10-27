@@ -1,0 +1,47 @@
+# Flutter/Dart related files
+/.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Build directory
+/build/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Runner.xcworkspace/xcuserdata
+
+# Android
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+android/local.properties
+android/app/*.iml
+
+# Web
+/web/.dart_tool/
+/web/index.html
+/web/manifest.json
+/web/favicon.png
+
+# IntelliJ related files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related files
+.vscode/
+
+# Misc
+*.log
+*.tmp
+*.swp
+.DS_Store
