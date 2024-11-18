@@ -13,7 +13,7 @@ app.use(
 );
 
 // MongoDB connection URI
-const uri = "mongodb+srv://tashkeel:pasha123@foodapp.5dgg1.mongodb.net/flutter";
+const uri = "mongodb+srv://.....:......@foodapp.5dgg1.mongodb.net/flutter";
 
 // Connect to MongoDB
 mongoose
